@@ -13,7 +13,6 @@ from typing import Any
 
 from agent_router import IntentRouter, RoutingIntent
 
-
 # ---------------------------------------------------------------------------
 # A custom router that records every dispatch instead of just printing.
 # ---------------------------------------------------------------------------
